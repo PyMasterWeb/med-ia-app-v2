@@ -28,7 +28,7 @@ def health():
     """Health check endpoint"""
     return jsonify({
         "status": "healthy",
-        "message": "Med-IA API está funcionando!",
+        "message": "Med-IA API está funcionando!!",
         "static_folder": app.static_folder,
         "static_files": os.listdir(app.static_folder) if app.static_folder and os.path.exists(app.static_folder) else [],
         "blueprints": list(app.blueprints.keys()),
