@@ -1,0 +1,2009 @@
+{
+  "doencas": [
+    {
+      "codigo_seq": "1",
+      "nome": "Diabetes mellitus tipo 1",
+      "cid": "E10",
+      "categoria": "Doenças endócrinas, nutricionais e metabólicas"
+    },
+    {
+      "codigo_seq": "2",
+      "nome": "Diabetes mellitus tipo 2",
+      "cid": "E11",
+      "categoria": "Doenças endócrinas, nutricionais e metabólicas"
+    },
+    {
+      "codigo_seq": "3",
+      "nome": "Hipertensão arterial essencial",
+      "cid": "I10",
+      "categoria": "Doenças do aparelho circulatório"
+    },
+    {
+      "codigo_seq": "4",
+      "nome": "Asma",
+      "cid": "J45",
+      "categoria": "Doenças do aparelho respiratório"
+    },
+    {
+      "codigo_seq": "5",
+      "nome": "Pneumonia",
+      "cid": "J18",
+      "categoria": "Doenças do aparelho respiratório"
+    },
+    {
+      "codigo_seq": "6",
+      "nome": "Infarto agudo do miocárdio",
+      "cid": "I21",
+      "categoria": "Doenças do aparelho circulatório"
+    },
+    {
+      "codigo_seq": "7",
+      "nome": "Acidente vascular cerebral",
+      "cid": "I63",
+      "categoria": "Doenças do aparelho circulatório"
+    },
+    {
+      "codigo_seq": "8",
+      "nome": "Câncer de mama",
+      "cid": "C50",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "9",
+      "nome": "Câncer de próstata",
+      "cid": "C61",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "10",
+      "nome": "Câncer de pulmão",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "11",
+      "nome": "Depressão",
+      "cid": "F32",
+      "categoria": "Transtornos mentais e comportamentais"
+    },
+    {
+      "codigo_seq": "12",
+      "nome": "Ansiedade",
+      "cid": "F41",
+      "categoria": "Transtornos mentais e comportamentais"
+    },
+    {
+      "codigo_seq": "13",
+      "nome": "Esquizofrenia",
+      "cid": "F20",
+      "categoria": "Transtornos mentais e comportamentais"
+    },
+    {
+      "codigo_seq": "14",
+      "nome": "Transtorno bipolar",
+      "cid": "F31",
+      "categoria": "Transtornos mentais e comportamentais"
+    },
+    {
+      "codigo_seq": "15",
+      "nome": "Anemia ferropriva",
+      "cid": "D50",
+      "categoria": "Doenças do sangue e órgãos hematopoéticos"
+    },
+    {
+      "codigo_seq": "16",
+      "nome": "Anemia por deficiência de vitamina B12",
+      "cid": "D51",
+      "categoria": "Doenças do sangue e órgãos hematopoéticos"
+    },
+    {
+      "codigo_seq": "17",
+      "nome": "Anemia aplástica",
+      "cid": "D60",
+      "categoria": "Doenças do sangue e órgãos hematopoéticos"
+    },
+    {
+      "codigo_seq": "18",
+      "nome": "Leucemia",
+      "cid": "C91",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "19",
+      "nome": "Linfoma",
+      "cid": "C85",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "20",
+      "nome": "Gastrite",
+      "cid": "K29",
+      "categoria": "Doenças do aparelho digestivo"
+    },
+    {
+      "codigo_seq": "21",
+      "nome": "Úlcera gástrica",
+      "cid": "K25",
+      "categoria": "Doenças do aparelho digestivo"
+    },
+    {
+      "codigo_seq": "22",
+      "nome": "Hepatite viral",
+      "cid": "B19",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "23",
+      "nome": "Tuberculose",
+      "cid": "A15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "24",
+      "nome": "HIV/AIDS",
+      "cid": "B20",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "25",
+      "nome": "Artrite reumatoide",
+      "cid": "M06",
+      "categoria": "Doenças do sistema osteomuscular"
+    },
+    {
+      "codigo_seq": "26",
+      "nome": "Osteoporose",
+      "cid": "M81",
+      "categoria": "Doenças do sistema osteomuscular"
+    },
+    {
+      "codigo_seq": "27",
+      "nome": "Insuficiência cardíaca",
+      "cid": "I50",
+      "categoria": "Doenças do aparelho circulatório"
+    },
+    {
+      "codigo_seq": "28",
+      "nome": "Arritmia cardíaca",
+      "cid": "I49",
+      "categoria": "Doenças do aparelho circulatório"
+    },
+    {
+      "codigo_seq": "29",
+      "nome": "Bronquite crônica",
+      "cid": "J42",
+      "categoria": "Doenças do aparelho respiratório"
+    },
+    {
+      "codigo_seq": "30",
+      "nome": "Enfisema pulmonar",
+      "cid": "J43",
+      "categoria": "Doenças do aparelho respiratório"
+    },
+    {
+      "codigo_seq": "31",
+      "nome": "Insuficiência renal",
+      "cid": "N18",
+      "categoria": "Doenças do aparelho geniturinário"
+    },
+    {
+      "codigo_seq": "32",
+      "nome": "Cálculo renal",
+      "cid": "N20",
+      "categoria": "Doenças do aparelho geniturinário"
+    },
+    {
+      "codigo_seq": "33",
+      "nome": "Diabetes gestacional",
+      "cid": "O24",
+      "categoria": "Condições originadas no período perinatal"
+    },
+    {
+      "codigo_seq": "34",
+      "nome": "Pré-eclâmpsia",
+      "cid": "O14",
+      "categoria": "Condições originadas no período perinatal"
+    },
+    {
+      "codigo_seq": "35",
+      "nome": "Malformação cardíaca congênita",
+      "cid": "Q20",
+      "categoria": "Malformações congênitas"
+    },
+    {
+      "codigo_seq": "36",
+      "nome": "Síndrome de Down",
+      "cid": "Q90",
+      "categoria": "Malformações congênitas"
+    },
+    {
+      "codigo_seq": "37",
+      "nome": "Dor de cabeça",
+      "cid": "R51",
+      "categoria": "Sintomas, sinais e achados anormais"
+    },
+    {
+      "codigo_seq": "38",
+      "nome": "Febre",
+      "cid": "R50",
+      "categoria": "Sintomas, sinais e achados anormais"
+    },
+    {
+      "codigo_seq": "39",
+      "nome": "Tosse",
+      "cid": "R05",
+      "categoria": "Sintomas, sinais e achados anormais"
+    },
+    {
+      "codigo_seq": "40",
+      "nome": "Náusea e vômito",
+      "cid": "R11",
+      "categoria": "Sintomas, sinais e achados anormais"
+    },
+    {
+      "codigo_seq": "41",
+      "nome": "Dor abdominal",
+      "cid": "R10",
+      "categoria": "Sintomas, sinais e achados anormais"
+    },
+    {
+      "codigo_seq": "42",
+      "nome": "Fadiga",
+      "cid": "R53",
+      "categoria": "Sintomas, sinais e achados anormais"
+    },
+    {
+      "codigo_seq": "43",
+      "nome": "Acidente de trânsito",
+      "cid": "V89",
+      "categoria": "Causas externas de morbidade"
+    },
+    {
+      "codigo_seq": "44",
+      "nome": "Queda",
+      "cid": "W19",
+      "categoria": "Causas externas de morbidade"
+    },
+    {
+      "codigo_seq": "45",
+      "nome": "Queimadura",
+      "cid": "T31",
+      "categoria": "Lesões, envenenamentos e outras consequências"
+    },
+    {
+      "codigo_seq": "46",
+      "nome": "Intoxicação medicamentosa",
+      "cid": "T50",
+      "categoria": "Lesões, envenenamentos e outras consequências"
+    },
+    {
+      "codigo_seq": "47",
+      "nome": "Consulta médica",
+      "cid": "Z00",
+      "categoria": "Fatores que influenciam o estado de saúde"
+    },
+    {
+      "codigo_seq": "48",
+      "nome": "Epilepsia",
+      "cid": "G40",
+      "categoria": "Doenças do sistema nervoso"
+    },
+    {
+      "codigo_seq": "49",
+      "nome": "Mal de Parkinson",
+      "cid": "G20",
+      "categoria": "Doenças do sistema nervoso"
+    },
+    {
+      "codigo_seq": "50",
+      "nome": "Alzheimer",
+      "cid": "G30",
+      "categoria": "Doenças do sistema nervoso"
+    },
+    {
+      "codigo_seq": "51",
+      "nome": "Esclerose múltipla",
+      "cid": "G35",
+      "categoria": "Doenças do sistema nervoso"
+    },
+    {
+      "codigo_seq": "52",
+      "nome": "Glaucoma",
+      "cid": "H40",
+      "categoria": "Doenças do olho e anexos"
+    },
+    {
+      "codigo_seq": "53",
+      "nome": "Catarata",
+      "cid": "H25",
+      "categoria": "Doenças do olho e anexos"
+    },
+    {
+      "codigo_seq": "54",
+      "nome": "Retinopatia diabética",
+      "cid": "H36",
+      "categoria": "Doenças do olho e anexos"
+    },
+    {
+      "codigo_seq": "55",
+      "nome": "Câncer de cólon",
+      "cid": "C18",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "56",
+      "nome": "Câncer de estômago",
+      "cid": "C16",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "57",
+      "nome": "Câncer de fígado",
+      "cid": "C22",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "58",
+      "nome": "Câncer de ovário",
+      "cid": "C56",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "59",
+      "nome": "Câncer de útero",
+      "cid": "C54",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "60",
+      "nome": "Câncer de testículo",
+      "cid": "C62",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "61",
+      "nome": "Câncer de bexiga",
+      "cid": "C67",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "62",
+      "nome": "Câncer de rim",
+      "cid": "C64",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "63",
+      "nome": "Câncer de pâncreas",
+      "cid": "C25",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "64",
+      "nome": "Câncer de esôfago",
+      "cid": "C15",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "65",
+      "nome": "Câncer de pele",
+      "cid": "C44",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "66",
+      "nome": "Melanoma",
+      "cid": "C43",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "67",
+      "nome": "Câncer de tireoide",
+      "cid": "C73",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "68",
+      "nome": "Câncer de cérebro",
+      "cid": "C71",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "69",
+      "nome": "Câncer de medula óssea",
+      "cid": "C90",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "70",
+      "nome": "Câncer de laringe",
+      "cid": "C32",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "71",
+      "nome": "Câncer de faringe",
+      "cid": "C13",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "72",
+      "nome": "Câncer de boca",
+      "cid": "C06",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "73",
+      "nome": "Câncer de língua",
+      "cid": "C02",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "74",
+      "nome": "Câncer de reto",
+      "cid": "C20",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "75",
+      "nome": "Câncer de ânus",
+      "cid": "C21",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "76",
+      "nome": "Câncer de vesícula biliar",
+      "cid": "C23",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "77",
+      "nome": "Câncer de vias biliares",
+      "cid": "C24",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "78",
+      "nome": "Câncer de timo",
+      "cid": "C37",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "79",
+      "nome": "Câncer de coração",
+      "cid": "C38",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "80",
+      "nome": "Câncer de pleura",
+      "cid": "C38",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "81",
+      "nome": "Câncer de mediastino",
+      "cid": "C38",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "82",
+      "nome": "Câncer de peritônio",
+      "cid": "C48",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "83",
+      "nome": "Câncer de retroperitônio",
+      "cid": "C48",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "84",
+      "nome": "Câncer de tecidos moles",
+      "cid": "C49",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "85",
+      "nome": "Câncer de osso",
+      "cid": "C40",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "86",
+      "nome": "Câncer de cartilagem",
+      "cid": "C41",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "87",
+      "nome": "Câncer de tecido conjuntivo",
+      "cid": "C49",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "88",
+      "nome": "Câncer de pele melanoma",
+      "cid": "C43",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "89",
+      "nome": "Câncer de pele não melanoma",
+      "cid": "C44",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "90",
+      "nome": "Câncer de mama masculino",
+      "cid": "C50",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "91",
+      "nome": "Câncer de mama feminino",
+      "cid": "C50",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "92",
+      "nome": "Câncer de mama in situ",
+      "cid": "D05",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "93",
+      "nome": "Câncer de próstata localizado",
+      "cid": "C61",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "94",
+      "nome": "Câncer de próstata metastático",
+      "cid": "C61",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "95",
+      "nome": "Câncer de pulmão de pequenas células",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "96",
+      "nome": "Câncer de pulmão de não pequenas células",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "97",
+      "nome": "Câncer de pulmão adenocarcinoma",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "98",
+      "nome": "Câncer de pulmão carcinoma epidermoide",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "99",
+      "nome": "Câncer de pulmão carcinoma de grandes células",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "100",
+      "nome": "Câncer de pulmão carcinoma bronquíolo-alveolar",
+      "cid": "C34",
+      "categoria": "Neoplasias"
+    },
+    {
+      "codigo_seq": "101",
+      "nome": "Cólera",
+      "cid": "A00",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "102",
+      "nome": "Febres tifóide e paratifóide",
+      "cid": "A01",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "103",
+      "nome": "Shiguelose",
+      "cid": "A03",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "104",
+      "nome": "Amebíase",
+      "cid": "A06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "105",
+      "nome": "Diarréia e gastroenterite de origem infecciosa presumível",
+      "cid": "A09",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "106",
+      "nome": "Tuberculose respiratória",
+      "cid": "A15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "107",
+      "nome": "Tuberculose pulmonar",
+      "cid": "A15.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "108",
+      "nome": "Tuberculose respiratória",
+      "cid": "A16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "109",
+      "nome": "Tuberculose do sistema nervoso",
+      "cid": "A17",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "110",
+      "nome": "Tuberculose de outros órgãos",
+      "cid": "A18",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "111",
+      "nome": "Tuberculose miliar",
+      "cid": "A19",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "112",
+      "nome": "Peste",
+      "cid": "A20",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "113",
+      "nome": "Brucelose",
+      "cid": "A23",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "114",
+      "nome": "Hanseníase [lepra]",
+      "cid": "A30",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "115",
+      "nome": "Tétano neonatal",
+      "cid": "A33",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "116",
+      "nome": "Tétano obstétrico",
+      "cid": "A34",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "117",
+      "nome": "Outros tétanos",
+      "cid": "A35",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "118",
+      "nome": "Difteria",
+      "cid": "A36",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "119",
+      "nome": "Coqueluche",
+      "cid": "A37",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "120",
+      "nome": "Infecção meningocócica",
+      "cid": "A39",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "121",
+      "nome": "Septicemia estreptocócica",
+      "cid": "A40",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "122",
+      "nome": "Outras septicemias",
+      "cid": "A41",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "123",
+      "nome": "Sífilis congênita",
+      "cid": "A50",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "124",
+      "nome": "Sífilis precoce",
+      "cid": "A51",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "125",
+      "nome": "Sífilis tardia",
+      "cid": "A52",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "126",
+      "nome": "Outras formas de sífilis",
+      "cid": "A53",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "127",
+      "nome": "Infecção gonocócica",
+      "cid": "A54",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "128",
+      "nome": "Linfogranuloma venéreo",
+      "cid": "A55",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "129",
+      "nome": "Outras infecções clamídias transmitidas por via sexual",
+      "cid": "A56",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "130",
+      "nome": "Cancro mole",
+      "cid": "A57",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "131",
+      "nome": "Doença sexualmente transmitida não especificada",
+      "cid": "A64",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "132",
+      "nome": "Febres recorrentes",
+      "cid": "A68",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "133",
+      "nome": "Tracoma",
+      "cid": "A71",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "134",
+      "nome": "Tifo exantemático",
+      "cid": "A75",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "135",
+      "nome": "Poliomielite aguda",
+      "cid": "A80",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "136",
+      "nome": "Raiva",
+      "cid": "A82",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "137",
+      "nome": "Encefalite viral transmitida por mosquitos",
+      "cid": "A83",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "138",
+      "nome": "Encefalite viral não especificada",
+      "cid": "A86",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "139",
+      "nome": "Dengue [dengue clássico]",
+      "cid": "A90",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "140",
+      "nome": "Febre hemorrágica devida ao vírus da dengue",
+      "cid": "A91",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "141",
+      "nome": "Febre amarela",
+      "cid": "A95",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "142",
+      "nome": "Infecções pelo vírus do herpes",
+      "cid": "B00",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "143",
+      "nome": "Varicela",
+      "cid": "B01",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "144",
+      "nome": "Herpes zoster",
+      "cid": "B02",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "145",
+      "nome": "Sarampo",
+      "cid": "B05",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "146",
+      "nome": "Rubéola",
+      "cid": "B06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "147",
+      "nome": "Hepatite aguda A",
+      "cid": "B15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "148",
+      "nome": "Hepatite aguda B",
+      "cid": "B16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "149",
+      "nome": "Outras hepatites virais agudas",
+      "cid": "B17",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "150",
+      "nome": "Malária",
+      "cid": "B50",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "151",
+      "nome": "Dengue",
+      "cid": "A90",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "152",
+      "nome": "Zika",
+      "cid": "A92.8",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "153",
+      "nome": "Chikungunya",
+      "cid": "A92.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "154",
+      "nome": "Febre amarela",
+      "cid": "A95",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "155",
+      "nome": "Leishmaniose",
+      "cid": "B55",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "156",
+      "nome": "Doença de Chagas",
+      "cid": "B57",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "157",
+      "nome": "Esquistossomose",
+      "cid": "B65",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "158",
+      "nome": "Filariose",
+      "cid": "B74",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "159",
+      "nome": "Oncocercose",
+      "cid": "B73",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "160",
+      "nome": "Lepra",
+      "cid": "A30",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "161",
+      "nome": "Tuberculose pulmonar",
+      "cid": "A15.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "162",
+      "nome": "Tuberculose extrapulmonar",
+      "cid": "A16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "163",
+      "nome": "Meningite bacteriana",
+      "cid": "G00",
+      "categoria": "Doenças do sistema nervoso"
+    },
+    {
+      "codigo_seq": "164",
+      "nome": "Meningite viral",
+      "cid": "A87",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "165",
+      "nome": "Encefalite",
+      "cid": "A86",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "166",
+      "nome": "Poliomielite",
+      "cid": "A80",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "167",
+      "nome": "Sarampo",
+      "cid": "B05",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "168",
+      "nome": "Rubéola",
+      "cid": "B06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "169",
+      "nome": "Caxumba",
+      "cid": "B26",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "170",
+      "nome": "Varicela",
+      "cid": "B01",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "171",
+      "nome": "Herpes zoster",
+      "cid": "B02",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "172",
+      "nome": "Hepatite A",
+      "cid": "B15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "173",
+      "nome": "Hepatite B",
+      "cid": "B16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "174",
+      "nome": "Hepatite C",
+      "cid": "B17.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "175",
+      "nome": "Hepatite D",
+      "cid": "B17.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "176",
+      "nome": "Hepatite E",
+      "cid": "B17.2",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "177",
+      "nome": "Sífilis congênita",
+      "cid": "A50",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "178",
+      "nome": "Sífilis precoce",
+      "cid": "A51",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "179",
+      "nome": "Sífilis tardia",
+      "cid": "A52",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "180",
+      "nome": "Gonorreia",
+      "cid": "A54",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "181",
+      "nome": "Cancro mole",
+      "cid": "A57",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "182",
+      "nome": "Linfogranuloma venéreo",
+      "cid": "A55",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "183",
+      "nome": "Infecção por clamídia",
+      "cid": "A56",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "184",
+      "nome": "Condiloma acuminado",
+      "cid": "A63.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "185",
+      "nome": "Candidíase",
+      "cid": "B37",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "186",
+      "nome": "Criptococose",
+      "cid": "B45",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "187",
+      "nome": "Histoplasmose",
+      "cid": "B39",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "188",
+      "nome": "Paracoccidioidomicose",
+      "cid": "B41",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "189",
+      "nome": "Esporotricose",
+      "cid": "B42",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "190",
+      "nome": "Aspergilose",
+      "cid": "B44",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "191",
+      "nome": "Mucormicose",
+      "cid": "B46",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "192",
+      "nome": "Pneumocistose",
+      "cid": "B59",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "193",
+      "nome": "Toxoplasmose",
+      "cid": "B58",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "194",
+      "nome": "Giardíase",
+      "cid": "A07.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "195",
+      "nome": "Amebíase",
+      "cid": "A06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "196",
+      "nome": "Tricomoníase",
+      "cid": "A59",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "197",
+      "nome": "Pediculose",
+      "cid": "B85",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "198",
+      "nome": "Escabiose",
+      "cid": "B86",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "199",
+      "nome": "Miíase",
+      "cid": "B87",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "200",
+      "nome": "Tungíase",
+      "cid": "B88.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "201",
+      "nome": "Larva migrans cutânea",
+      "cid": "B76.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "202",
+      "nome": "Larva migrans visceral",
+      "cid": "B76.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "203",
+      "nome": "Ancilostomíase",
+      "cid": "B76.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "204",
+      "nome": "Ascaridíase",
+      "cid": "B77",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "205",
+      "nome": "Enterobíase",
+      "cid": "B80",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "206",
+      "nome": "Tricuríase",
+      "cid": "B79",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "207",
+      "nome": "Estrongiloidíase",
+      "cid": "B78",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "208",
+      "nome": "Teníase",
+      "cid": "B68",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "209",
+      "nome": "Cisticercose",
+      "cid": "B69",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "210",
+      "nome": "Equinococose",
+      "cid": "B67",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "211",
+      "nome": "Esquistossomose intestinal",
+      "cid": "B65.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "212",
+      "nome": "Esquistossomose urinária",
+      "cid": "B65.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "213",
+      "nome": "Esquistossomose hepatoesplênica",
+      "cid": "B65.2",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "214",
+      "nome": "Esquistossomose pulmonar",
+      "cid": "B65.3",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "215",
+      "nome": "Esquistossomose cerebral",
+      "cid": "B65.4",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "216",
+      "nome": "Esquistossomose com outras localizações",
+      "cid": "B65.8",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "217",
+      "nome": "Esquistossomose não especificada",
+      "cid": "B65.9",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "218",
+      "nome": "Cólera",
+      "cid": "A00",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "219",
+      "nome": "Febres tifóide e paratifóide",
+      "cid": "A01",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "220",
+      "nome": "Shiguelose",
+      "cid": "A03",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "221",
+      "nome": "Amebíase",
+      "cid": "A06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "222",
+      "nome": "Diarréia e gastroenterite de origem infecciosa presumível",
+      "cid": "A09",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "223",
+      "nome": "Tuberculose respiratória",
+      "cid": "A15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "224",
+      "nome": "Tuberculose pulmonar",
+      "cid": "A15.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "225",
+      "nome": "Tuberculose respiratória",
+      "cid": "A16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "226",
+      "nome": "Tuberculose do sistema nervoso",
+      "cid": "A17",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "227",
+      "nome": "Tuberculose de outros órgãos",
+      "cid": "A18",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "228",
+      "nome": "Tuberculose miliar",
+      "cid": "A19",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "229",
+      "nome": "Peste",
+      "cid": "A20",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "230",
+      "nome": "Brucelose",
+      "cid": "A23",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "231",
+      "nome": "Hanseníase [lepra]",
+      "cid": "A30",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "232",
+      "nome": "Tétano neonatal",
+      "cid": "A33",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "233",
+      "nome": "Tétano obstétrico",
+      "cid": "A34",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "234",
+      "nome": "Outros tétanos",
+      "cid": "A35",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "235",
+      "nome": "Difteria",
+      "cid": "A36",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "236",
+      "nome": "Coqueluche",
+      "cid": "A37",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "237",
+      "nome": "Infecção meningocócica",
+      "cid": "A39",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "238",
+      "nome": "Septicemia estreptocócica",
+      "cid": "A40",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "239",
+      "nome": "Outras septicemias",
+      "cid": "A41",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "240",
+      "nome": "Sífilis congênita",
+      "cid": "A50",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "241",
+      "nome": "Sífilis precoce",
+      "cid": "A51",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "242",
+      "nome": "Sífilis tardia",
+      "cid": "A52",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "243",
+      "nome": "Outras formas de sífilis",
+      "cid": "A53",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "244",
+      "nome": "Infecção gonocócica",
+      "cid": "A54",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "245",
+      "nome": "Linfogranuloma venéreo",
+      "cid": "A55",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "246",
+      "nome": "Outras infecções clamídias transmitidas por via sexual",
+      "cid": "A56",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "247",
+      "nome": "Cancro mole",
+      "cid": "A57",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "248",
+      "nome": "Doença sexualmente transmitida não especificada",
+      "cid": "A64",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "249",
+      "nome": "Febres recorrentes",
+      "cid": "A68",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "250",
+      "nome": "Tracoma",
+      "cid": "A71",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "251",
+      "nome": "Tifo exantemático",
+      "cid": "A75",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "252",
+      "nome": "Poliomielite aguda",
+      "cid": "A80",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "253",
+      "nome": "Raiva",
+      "cid": "A82",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "254",
+      "nome": "Encefalite viral transmitida por mosquitos",
+      "cid": "A83",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "255",
+      "nome": "Encefalite viral não especificada",
+      "cid": "A86",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "256",
+      "nome": "Dengue [dengue clássico]",
+      "cid": "A90",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "257",
+      "nome": "Febre hemorrágica devida ao vírus da dengue",
+      "cid": "A91",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "258",
+      "nome": "Febre amarela",
+      "cid": "A95",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "259",
+      "nome": "Infecções pelo vírus do herpes",
+      "cid": "B00",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "260",
+      "nome": "Varicela",
+      "cid": "B01",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "261",
+      "nome": "Herpes zoster",
+      "cid": "B02",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "262",
+      "nome": "Sarampo",
+      "cid": "B05",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "263",
+      "nome": "Rubéola",
+      "cid": "B06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "264",
+      "nome": "Hepatite aguda A",
+      "cid": "B15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "265",
+      "nome": "Hepatite aguda B",
+      "cid": "B16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "266",
+      "nome": "Outras hepatites virais agudas",
+      "cid": "B17",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "267",
+      "nome": "Malária",
+      "cid": "B50",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "268",
+      "nome": "Dengue",
+      "cid": "A90",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "269",
+      "nome": "Zika",
+      "cid": "A92.8",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "270",
+      "nome": "Chikungunya",
+      "cid": "A92.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "271",
+      "nome": "Febre amarela",
+      "cid": "A95",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "272",
+      "nome": "Leishmaniose",
+      "cid": "B55",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "273",
+      "nome": "Doença de Chagas",
+      "cid": "B57",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "274",
+      "nome": "Esquistossomose",
+      "cid": "B65",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "275",
+      "nome": "Filariose",
+      "cid": "B74",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "276",
+      "nome": "Oncocercose",
+      "cid": "B73",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "277",
+      "nome": "Lepra",
+      "cid": "A30",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "278",
+      "nome": "Tuberculose pulmonar",
+      "cid": "A15.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "279",
+      "nome": "Tuberculose extrapulmonar",
+      "cid": "A16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "280",
+      "nome": "Meningite bacteriana",
+      "cid": "G00",
+      "categoria": "Doenças do sistema nervoso"
+    },
+    {
+      "codigo_seq": "281",
+      "nome": "Meningite viral",
+      "cid": "A87",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "282",
+      "nome": "Encefalite",
+      "cid": "A86",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "283",
+      "nome": "Poliomielite",
+      "cid": "A80",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "284",
+      "nome": "Sarampo",
+      "cid": "B05",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "285",
+      "nome": "Rubéola",
+      "cid": "B06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "286",
+      "nome": "Caxumba",
+      "cid": "B26",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "287",
+      "nome": "Varicela",
+      "cid": "B01",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "288",
+      "nome": "Herpes zoster",
+      "cid": "B02",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "289",
+      "nome": "Hepatite A",
+      "cid": "B15",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "290",
+      "nome": "Hepatite B",
+      "cid": "B16",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "291",
+      "nome": "Hepatite C",
+      "cid": "B17.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "292",
+      "nome": "Hepatite D",
+      "cid": "B17.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "293",
+      "nome": "Hepatite E",
+      "cid": "B17.2",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "294",
+      "nome": "Sífilis congênita",
+      "cid": "A50",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "295",
+      "nome": "Sífilis precoce",
+      "cid": "A51",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "296",
+      "nome": "Sífilis tardia",
+      "cid": "A52",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "297",
+      "nome": "Gonorreia",
+      "cid": "A54",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "298",
+      "nome": "Cancro mole",
+      "cid": "A57",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "299",
+      "nome": "Linfogranuloma venéreo",
+      "cid": "A55",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "300",
+      "nome": "Infecção por clamídia",
+      "cid": "A56",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "301",
+      "nome": "Condiloma acuminado",
+      "cid": "A63.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "302",
+      "nome": "Candidíase",
+      "cid": "B37",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "303",
+      "nome": "Criptococose",
+      "cid": "B45",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "304",
+      "nome": "Histoplasmose",
+      "cid": "B39",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "305",
+      "nome": "Paracoccidioidomicose",
+      "cid": "B41",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "306",
+      "nome": "Esporotricose",
+      "cid": "B42",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "307",
+      "nome": "Aspergilose",
+      "cid": "B44",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "308",
+      "nome": "Mucormicose",
+      "cid": "B46",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "309",
+      "nome": "Pneumocistose",
+      "cid": "B59",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "310",
+      "nome": "Toxoplasmose",
+      "cid": "B58",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "311",
+      "nome": "Giardíase",
+      "cid": "A07.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "312",
+      "nome": "Amebíase",
+      "cid": "A06",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "313",
+      "nome": "Tricomoníase",
+      "cid": "A59",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "314",
+      "nome": "Pediculose",
+      "cid": "B85",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "315",
+      "nome": "Escabiose",
+      "cid": "B86",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "316",
+      "nome": "Miíase",
+      "cid": "B87",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "317",
+      "nome": "Tungíase",
+      "cid": "B88.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "318",
+      "nome": "Larva migrans cutânea",
+      "cid": "B76.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "319",
+      "nome": "Larva migrans visceral",
+      "cid": "B76.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "320",
+      "nome": "Ancilostomíase",
+      "cid": "B76.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "321",
+      "nome": "Ascaridíase",
+      "cid": "B77",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "322",
+      "nome": "Enterobíase",
+      "cid": "B80",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "323",
+      "nome": "Tricuríase",
+      "cid": "B79",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "324",
+      "nome": "Estrongiloidíase",
+      "cid": "B78",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "325",
+      "nome": "Teníase",
+      "cid": "B68",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "326",
+      "nome": "Cisticercose",
+      "cid": "B69",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "327",
+      "nome": "Equinococose",
+      "cid": "B67",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "328",
+      "nome": "Esquistossomose intestinal",
+      "cid": "B65.0",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "329",
+      "nome": "Esquistossomose urinária",
+      "cid": "B65.1",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "330",
+      "nome": "Esquistossomose hepatoesplênica",
+      "cid": "B65.2",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "331",
+      "nome": "Esquistossomose pulmonar",
+      "cid": "B65.3",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "332",
+      "nome": "Esquistossomose cerebral",
+      "cid": "B65.4",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "333",
+      "nome": "Esquistossomose com outras localizações",
+      "cid": "B65.8",
+      "categoria": "Doenças infecciosas e parasitárias"
+    },
+    {
+      "codigo_seq": "334",
+      "nome": "Esquistossomose não especificada",
+      "cid": "B65.9",
+      "categoria": "Doenças infecciosas e parasitárias"
+    }
+  ],
+  "last_update": 1752425807
+}
